@@ -9,8 +9,8 @@ Tenho vivência com **SQL**, **Git**, **CI/CD** e **metodologias ágeis**. Possu
 ---
 
 ## 📊 Estatísticas do GitHub
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickAnggellis&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAnggellis&layout=compact&theme=radical)
 
 ---
 
